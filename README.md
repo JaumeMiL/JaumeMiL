@@ -33,4 +33,4 @@ I am a dedicated student of Artificial Intelligence at UPC Barcelona Tech, blend
 ### 📫 **Contact**
 
 - Email: jaume.mora.ladaria@estudiantat.upc.edu
-- [LinkedIn](https://www.linked.in/jaumemil)
+- [LinkedIn](www.linkedin.com/in/jaumemil)
