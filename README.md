@@ -1,6 +1,6 @@
-### Jaume Mora i Ladàría
+# Jaume Mora i Ladàría
 
-📚 **About Me**
+### 📚 **About Me**
 
 I am a dedicated student of Artificial Intelligence at UPC Barcelona Tech, blending creativity with technological passion. My academic journey began with a multilingual ESO completed under the British Council program and a scientific-technological Batxillerat in Artà, Mallorca, where I was introduced to programming. My work experience includes roles at CanetRock festivals in Catalonia, enhancing my skills in teamwork and customer service. I am also a passionate violinist, embodying discipline and perseverance. My goal is to contribute to AI-driven technological innovation.
 
