@@ -1,4 +1,4 @@
-# Jaume Mora i Ladàría
+# Jaume Mora i Ladària
 
 ### 📚 **About Me**
 
