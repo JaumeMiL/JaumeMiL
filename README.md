@@ -26,8 +26,8 @@ I am a dedicated student of Artificial Intelligence at UPC Barcelona Tech, blend
 
 ### 💻 **Projects**
 
-- **[Smart City Expo](https://ja.cat/v5W0h)**: At the age of 10, served as a TV3 reporter presenting a drone-based fire detection and extinguishing project.
-- **[ONGs.CAT](https://www.youtube.com/watch?v=51XZJXJLAoY)**: Co-created a nonprofit comparison website featured on Balearic Islands TV.
+- **[Smart City Expo](https://ja.cat/v5W0h)**: At the age of 10, served as a TV3 (Catalan TV) reporter presenting a drone-based fire detection and extinguishing project.
+- **[ONGs.CAT](https://www.youtube.com/watch?v=51XZJXJLAoY)**: Co-created a nonprofit comparison website featured on IB3 (Balearic Islands TV).
 
 
 ### 📫 **Contact**
