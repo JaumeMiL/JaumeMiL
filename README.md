@@ -7,9 +7,9 @@ I am a dedicated student of Artificial Intelligence at UPC Barcelona Tech, blend
 ### 🌍 **Languages**
 
 - Catalan: Native
-- Spanish: Native
 - English: Full Professional
 - German: Elementary
+- Spanish: Native
 
 ### 🏆 **Achievements**
 
