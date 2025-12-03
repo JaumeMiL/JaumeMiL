@@ -1,11 +1,11 @@
 # Jaume Mora i Ladària
 
 ### 📚 About Me
-I’m an Artificial Intelligence student at UPC Barcelona Tech with a strong interest in combining technology, creativity, and real-world impact. My academic path began in a multilingual environment through the British Council program during ESO, followed by a scientific-technological Batxillerat in Artà, Mallorca — where I first discovered my passion for programming.
+I’m an Artificial Intelligence student at UPC Barcelona Tech with hands-on experience in computer vision, applied machine learning, and software engineering. I’ve worked as a Computer Vision Intern at the UPC, where I translated and developed educational notebooks from MATLAB to Python, and as an AI Engineer at Outlier, contributing to model creation and evaluation workflows.
 
-Alongside my studies, I’ve gained work experience at the CanetRock festival over several summers, a role that strengthened my teamwork, communication, and problem-solving skills in high-pressure environments. I’m also a dedicated violinist, a discipline that has taught me perseverance, attention to detail, and consistency.
+My background also includes several summers working at the CanetRock festival, a role that has strengthened my communication, teamwork, and problem-solving skills in fast-paced environments. As a violinist, I’ve developed discipline, attention to detail, and perseverance — qualities I apply directly to my engineering work.
 
-My goal is to grow as an AI engineer and contribute to meaningful, innovative technological projects.
+I’m eager to continue growing as an AI engineer and contribute to impactful technological projects that make a real difference.
 
 ### 🌍 Languages
 - Catalan: Native  
