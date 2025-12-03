@@ -1,36 +1,24 @@
 # Jaume Mora i Ladària
 
-### 📚 **About Me**
+### 📚 About Me
+I’m an Artificial Intelligence student at UPC Barcelona Tech with a strong interest in combining technology, creativity, and real-world impact. My academic path began in a multilingual environment through the British Council program during ESO, followed by a scientific-technological Batxillerat in Artà, Mallorca — where I first discovered my passion for programming.
 
-I am a dedicated student of Artificial Intelligence at UPC Barcelona Tech, blending creativity with technological passion. My academic journey began with a multilingual ESO completed under the British Council program and a scientific-technological Batxillerat in Artà, Mallorca, where I was introduced to programming. My work experience includes roles at CanetRock festivals in Catalonia, enhancing my skills in teamwork and customer service. I am also a passionate violinist, embodying discipline and perseverance. My goal is to contribute to AI-driven technological innovation.
+Alongside my studies, I’ve gained work experience at the CanetRock festival over several summers, a role that strengthened my teamwork, communication, and problem-solving skills in high-pressure environments. I’m also a dedicated violinist, a discipline that has taught me perseverance, attention to detail, and consistency.
 
-### 🌍 **Languages**
+My goal is to grow as an AI engineer and contribute to meaningful, innovative technological projects.
 
-- Catalan: Native
-- English: Full Professional
-- German: Elementary
-- Spanish: Native-level proficiency
+### 🌍 Languages
+- Catalan: Native  
+- Spanish: Native-level  
+- English: Full Professional  
+- German: Elementary  
 
-### 🏆 **Achievements**
+### 🛠 Skills
+- **Programming:** Python, C++, C, JavaScript, R, Prolog, PDDL  
+- **Databases:** SQL, UML  
+- **Assembly:** SISA, ISA  
+- **Web:** HTML, CSS  
 
-- 3rd Place, Premi Sambori OCB 2022
-- Under-14 Chess League Winner, Llevant de Mallorca
-- 4-time Winner, Na Batlessa Narrativa
-
-### 🛠 **Skills**
-
-- **Programming Languages**: Proficient in Python, C++, C, JavaScript, R, Prolog, PDDL
-- **Databases**: Skilled in SQL & UML
-- **Assembly Languages**: Knowledgeable in SISA & ISA
-- **Web Development**: Experienced in HTML & CSS
-
-### 💻 **Projects**
-
-- **[Smart City Expo](https://ja.cat/v5W0h)**: At the age of 10, served as a TV3 (Catalan TV) reporter presenting a drone-based fire detection and extinguishing project.
-- **[ONGs.CAT](https://www.youtube.com/watch?v=51XZJXJLAoY)**: Co-created a nonprofit comparison website featured on IB3 (Balearic Islands TV).
-
-
-### 📫 **Contact**
-
-- Email: jaume.mora.ladaria@estudiantat.upc.edu
-- [LinkedIn](www.linkedin.com/in/jaumemil)
+### 📫 Contact
+- Email: jaume.mora.ladaria@estudiantat.upc.edu  
+- LinkedIn: www.linkedin.com/in/jaumemil
