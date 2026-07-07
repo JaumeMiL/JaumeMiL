@@ -20,5 +20,6 @@ I’m eager to continue growing as an AI engineer and contribute to impactful te
 - **Web:** HTML, CSS  
 
 ### 📫 Contact
+- Web: www.jaumemil.cat
 - Email: jaume.mora.ladaria@estudiantat.upc.edu  
 - LinkedIn: www.linkedin.com/in/jaumemil
