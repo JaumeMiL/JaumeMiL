@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://jaumemil.cat/?lang=en"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jaumemil.cat-1f6feb?style=for-the-badge"></a>
-  <a href="https://jaumemil.cat/cv/?lang=en"><img alt="CV" src="https://img.shields.io/badge/CV-Research%20CV-1f6feb?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/jaumemil"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jaumemil-1f6feb?style=for-the-badge"></a>
-  <a href="https://devpost.com/jaumemil"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-jaumemil-1f6feb?style=for-the-badge"></a>
+  <a href="https://jaumemil.cat/?lang=en"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge"></a>
+  <a href="https://jaumemil.cat/cv/?lang=en"><img alt="CV" src="https://img.shields.io/badge/CV-1f6feb?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/jaumemil"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge"></a>
+  <a href="https://devpost.com/jaumemil"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-1f6feb?style=for-the-badge"></a>
 </p>
 
 ## About
