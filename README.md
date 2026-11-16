@@ -3,7 +3,7 @@
 <p align="center">
   <strong>MSc Computer Vision student</strong><br>
   Deep learning · Medical imaging · Multimodal vision<br>
-  Barcelona, Catalonia
+  From Artà (Mallorca), living in Barcelona
 </p>
 
 <p align="center">
